@@ -318,4 +318,3 @@ def night(c_o_s):  # ночь
 night(count_of_steps)
 
 window.mainloop()
-print(alives)
